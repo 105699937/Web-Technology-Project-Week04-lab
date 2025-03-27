@@ -1,8 +1,8 @@
 /*
 filename: [lab4.css]
 author: [Tanvir Rahman Tonoy]
-created: [27.03.2025]
-last modified: [27.03.2025 on campus 11:18 am]
+created: [27.03.2025 || 10:59am]
+last modified: [27.03.2025 on campus 11:21 am]
 description: [lab04.html]
 */
 * { 
@@ -29,6 +29,7 @@ table,td,th{
 #images {
          text-align : center;  /* careful: center has US spelling */
 }
+
 
 #heading{
     color:red;
